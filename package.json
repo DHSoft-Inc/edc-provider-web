@@ -1,6 +1,6 @@
 {
 	"name": "@dhsoft-inc/edc-provider-web",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "edc-provider-web (shared react utilities for Liferay portlets)",
 	"repository": "https://github.com/DHSoft-Inc/edc-provider-web",
 	"main": "dist/index.cjs",
